@@ -1,0 +1,28 @@
+H:\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+H:\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+H:\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+H:\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+H:\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+H:\Programming 1\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+C:\Users\Alex\OneDrive - Otago Polytechnic\Course\Programming 1\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
